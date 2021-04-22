@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Poul Høi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Poul Høi
+Sound designer and audio engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mail@poulhoi.dk">mail@poulhoi.dk</a>
+| <a href="www.poulhoi.dk">poulhoi.dk</a>
 </div>
 
 
