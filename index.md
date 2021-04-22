@@ -10,6 +10,8 @@ Sound designer and audio engineer
 | <a href="www.poulhoi.dk">poulhoi.dk</a>
 </div>
 
+![pic](http://www.poulhoi.dk/wp-content/uploads/2019/10/self-w-metkaMagic.jpg "Poul Høi")
+
 
 ## Currently
 
